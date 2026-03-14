@@ -1,0 +1,5 @@
+{
+  "name": "Secure Intent Agent",
+  "description": "A secure file management simulation demonstrating intent-aware execution with reasoning, policy enforcement, and execution layers.",
+  "requestFramePermissions": []
+}
